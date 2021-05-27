@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vokoscreen on madhead</title>
+    <link>https://ru.madhead.me/tags/vokoscreen/</link>
+    <description>Recent content in vokoscreen on madhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Oct 2017 19:36:00 +0300</lastBuildDate><atom:link href="https://ru.madhead.me/tags/vokoscreen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vokoscreen</title>
+      <link>https://ru.madhead.me/posts/linux-screen-recording/</link>
+      <pubDate>Sun, 29 Oct 2017 19:36:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/linux-screen-recording/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Как записать скрин + аудио в Linux?
+У меня KDE, если чо.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
