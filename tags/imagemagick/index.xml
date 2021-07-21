@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imagemagick on madhead</title>
+    <link>https://ru.madhead.me/tags/imagemagick/</link>
+    <description>Recent content in imagemagick on madhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Feb 2018 02:00:00 +0300</lastBuildDate><atom:link href="https://ru.madhead.me/tags/imagemagick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ImageMagick &#43; Docker = ❤️</title>
+      <link>https://ru.madhead.me/posts/imagemagick/</link>
+      <pubDate>Tue, 27 Feb 2018 02:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/imagemagick/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).
+А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.
+Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.
+И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

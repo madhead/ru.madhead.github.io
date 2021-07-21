@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telegram on madhead</title>
+    <link>https://ru.madhead.me/tags/telegram/</link>
+    <description>Recent content in telegram on madhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Mar 2021 09:00:00 +0300</lastBuildDate><atom:link href="https://ru.madhead.me/tags/telegram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ImgMacroBot</title>
+      <link>https://ru.madhead.me/posts/imgmacrobot/</link>
+      <pubDate>Tue, 16 Mar 2021 09:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/imgmacrobot/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/ImgMacroBot&#34;&gt;@ImgMacroBot&lt;/a&gt; — это &lt;a href=&#34;https://core.telegram.org/bots/inline&#34;&gt;инлайн бот&lt;/a&gt; для телеги для генерации &lt;a href=&#34;https://en.wikipedia.org/wiki/Image_macro&#34;&gt;image macro&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Watch Later Telegram Bot</title>
+      <link>https://ru.madhead.me/posts/ywltb/</link>
+      <pubDate>Wed, 20 May 2020 09:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/ywltb/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ywltb.herokuapp.com&#34;&gt;YWLTB&lt;/a&gt; — или YouTube Watch Later Telegram Bot — это бот для телеги, который делает всего одну вещь: добавляет YouTube-видосы, которые вы ему скидываете в личку вам в &amp;#34;Watch Later&amp;#34; плейлист.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

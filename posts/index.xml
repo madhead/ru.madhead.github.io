@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on madhead</title>
+    <link>https://ru.madhead.me/posts/</link>
+    <description>Recent content in Posts on madhead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Jul 2021 21:43:00 +0200</lastBuildDate><atom:link href="https://ru.madhead.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand Guide Pedestrian</title>
+      <link>https://ru.madhead.me/posts/ggp/</link>
+      <pubDate>Wed, 21 Jul 2021 21:43:00 +0200</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/ggp/</guid>
+      <description>Нахакатонил тут проектик, называется Grand Guide Pedestrian.
+ Это виртуальный интерактивный экспириенс, в котором игрок управляет другим человеком, героем, &amp;#34;как в GTA&amp;#34;. Только без стрельбы, угонов, и прочих нарушений законов, разумеется.
+ Демка:
+    Принцип работы:
+   Герой стримит видео с экшн-камеры на рестример, откуда оно забирается SPAшкой для игрока. Игрок, в свою очередь, управляет героем &amp;#34;классической&amp;#34; комбинацией WASD. Нажатия кнопок отсылаются по вебсокету на сервер, и оттуда улетают по вебсокету же герою в мобильную прилажку.</description>
+    </item>
+    
+    <item>
+      <title>ImgMacroBot</title>
+      <link>https://ru.madhead.me/posts/imgmacrobot/</link>
+      <pubDate>Tue, 16 Mar 2021 09:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/imgmacrobot/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://t.me/ImgMacroBot&#34;&gt;@ImgMacroBot&lt;/a&gt; — это &lt;a href=&#34;https://core.telegram.org/bots/inline&#34;&gt;инлайн бот&lt;/a&gt; для телеги для генерации &lt;a href=&#34;https://en.wikipedia.org/wiki/Image_macro&#34;&gt;image macro&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Как не писать книги</title>
+      <link>https://ru.madhead.me/posts/how-not-to-write-a-book/</link>
+      <pubDate>Sun, 07 Mar 2021 18:00:01 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/how-not-to-write-a-book/</guid>
+      <description>&lt;div class=&#34;quoteblock&#34;&gt;
+&lt;blockquote&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Книги для самоусовершенствования, которые обещают больше, чем могут дать, — это фальшивки.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;attribution&#34;&gt;
+— Мортимер Адлер&lt;br/&gt;
+&lt;cite&gt;Как читать книги: Руководство по чтению великих произведений&lt;/cite&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Это единственная цитата из &lt;a href=&#34;https://www.goodreads.com/book/show/50654997&#34;&gt;&amp;#34;Руководства&amp;#34;&lt;/a&gt;, достойная цитирования здесь.
+Признаюсь, она вырвана из контекста.
+Но она идеально точно описывает саму книгу.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Как читать книги</title>
+      <link>https://ru.madhead.me/posts/how-to-read-books/</link>
+      <pubDate>Sun, 07 Mar 2021 18:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/how-to-read-books/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Конспект книги &lt;a href=&#34;https://www.goodreads.com/book/show/10794379&#34;&gt;&amp;#34;Как читать книги&amp;#34;&lt;/a&gt; от Сергея Иннокентьевича Поварнина.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;В целом довольно очевидные вещи, но поданы чётко и по делу, без лишней воды, как у &lt;a href=&#34;../how-not-to-write-a-book&#34;&gt;Мортимера&lt;/a&gt;, да и применимы к чтению любых книг, а не только &lt;em&gt;великих&lt;/em&gt;.
+Отсюда и ⅘.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Просто Космос</title>
+      <link>https://ru.madhead.me/posts/simply-space/</link>
+      <pubDate>Thu, 24 Dec 2020 12:44:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/simply-space/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Почему бы не начать вести конспект прочитанных книг, чтобы помнить о чём они были?
+Например, вот, из недавнего, &amp;#34;Просто Космос&amp;#34; за авторством Катерины Ленгольд.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Watch Later Telegram Bot</title>
+      <link>https://ru.madhead.me/posts/ywltb/</link>
+      <pubDate>Wed, 20 May 2020 09:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/ywltb/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ywltb.herokuapp.com&#34;&gt;YWLTB&lt;/a&gt; — или YouTube Watch Later Telegram Bot — это бот для телеги, который делает всего одну вещь: добавляет YouTube-видосы, которые вы ему скидываете в личку вам в &amp;#34;Watch Later&amp;#34; плейлист.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Заглянул в фаблаб MakeIT, и там здорово!</title>
+      <link>https://ru.madhead.me/posts/makeit/</link>
+      <pubDate>Tue, 04 Feb 2020 09:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/makeit/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Возникала ли у вас когда-нибудь необходимость поработать с инструментом посерьёзнее отвёртки, молотка и перфоратора?
+Ну, скажем, выгнуть из акрила подставку для телефона; собрать из фанеры корпус для DIY 3D-принтера или же разово распечатать модельку с Thingiverse; выштамповать из листового металла ветровик на дедову «Яву»; фрезернуть на станке с ЧПУ декоративное панно из дерева; ровно отрезать алюминиевый профиль; потыкать логическим анализатором в китайскую схему или развести и изготовить собственную; сварить и покрасить раму для самодельного карта…
+Конечно, можно «заколхозить» самому, найти друга с гаражом или обратиться к фирмам и барыгам, оказывающим нужные услуги.
+Но вряд ли у друга в гараже найдётся ЧПУ-фрезер, лазерный резак, или пресс для металла; редкая компания станет связываться с физлицом ради мелкого заказа; а барыги возьмут втридорога.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D-печать в Минске</title>
+      <link>https://ru.madhead.me/posts/3d-minsk/</link>
+      <pubDate>Sun, 17 Mar 2019 18:42:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/3d-minsk/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Как говорят минские айтишники, ставшие за последние несколько лет экспертами в любом деле и занявшие первые места в рядах поклонников всех мыслимых и немыслимых хобби и увлечений: «Готовь сноуборд летом, а солнечный фильтр зимой».
+И вот, сезон откатан, и пора готовить астроприблуды.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Металлический конструктор как акселератор бытового DIY</title>
+      <link>https://ru.madhead.me/posts/metal-constructor/</link>
+      <pubDate>Sat, 19 May 2018 03:59:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/metal-constructor/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Есть у меня карманный проектор &lt;a href=&#34;https://www.acer.com/ac/en/GB/content/model/MR.JH911.001&#34;&gt;Acer C205&lt;/a&gt;.
+Крутая штука: по размерам похож на смартфон, влазит в карман куртки, работает полтора часа от аккумулятора, может использоваться как powerbank.
+Но слишком лёгкий, его даже HDMI кабель подчиняет своей воле.
+Да и мои варианты его использования редко предполагают какие-то поверхности, где можно установить проектор на нужном расстоянии и высоте.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;А ещё, у меня есть &lt;a href=&#34;https://www.vanguardworld.com/photo_video/espod-cx-204ap.html&#34;&gt;штатив&lt;/a&gt; и &lt;a href=&#34;https://www.10kor.ru/catalog/konstruktory_metallicheskie_igrovye/metallicheskiy_konstruktor_parovozik/&#34;&gt;советский металлический конструктор&lt;/a&gt;.
+Вот я и замутил «походное» крепление для проектора на штатив.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>ImageMagick &#43; Docker = ❤️</title>
+      <link>https://ru.madhead.me/posts/imagemagick/</link>
+      <pubDate>Tue, 27 Feb 2018 02:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/imagemagick/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).
+А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.
+Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.
+И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Артикуляция 101</title>
+      <link>https://ru.madhead.me/posts/articulo-101/</link>
+      <pubDate>Sun, 10 Dec 2017 17:18:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/articulo-101/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Сходил тут на краш-курсы по публичным выступлениям и всему такому.
+Прикольная штука, надо бы подкачаться.
+Ниже приведу несколько примеров «сложных» сочетаний букв, произнося которые по утрам можно тренировать речь.
+Ведь с речью, как и везде, практика — это главное.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jedi Mind Tricks I</title>
+      <link>https://ru.madhead.me/posts/lhtl/</link>
+      <pubDate>Mon, 27 Nov 2017 23:36:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/lhtl/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Пару лет назад я прошёл курс &lt;a href=&#34;https://www.coursera.org/learn/learning-how-to-learn&#34;&gt;“Learning How to Learn: Powerful mental tools to help you master tough subjects”&lt;/a&gt; на Coursera.
+Выложу-ка дамп мыслей по нему сюда, дабы не потерять в недрах Google Drive.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>vokoscreen</title>
+      <link>https://ru.madhead.me/posts/linux-screen-recording/</link>
+      <pubDate>Sun, 29 Oct 2017 19:36:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/linux-screen-recording/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Как записать скрин + аудио в Linux?
+У меня KDE, если чо.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blade Runner 2049</title>
+      <link>https://ru.madhead.me/posts/2049/</link>
+      <pubDate>Sun, 22 Oct 2017 00:35:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/2049/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Сходили внезапно &lt;a href=&#34;http://edthehead.livejournal.com&#34;&gt;с другом&lt;/a&gt; на Blade Runner 2049.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Я видел вещи.
+Банды мусорщиков на подступах к Лос-Анджелесу.
+Я смотрел, как бог уничтожает свои творения, разочаровавших в них.
+Все эти мгновения исчезнут во времени, как слёзы под дождём.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Пора написать рецензию.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kotlin &#43; Gradle = Jenkins plugin</title>
+      <link>https://ru.madhead.me/posts/doktor/</link>
+      <pubDate>Mon, 04 Sep 2017 21:00:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/doktor/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Запилил тут плагин для Jenkins на Kotlin.
+Делюсь впечатлениями.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Реквием по Петербургу</title>
+      <link>https://ru.madhead.me/posts/requiem-for-saint-petersburg/</link>
+      <pubDate>Mon, 07 Aug 2017 16:52:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/requiem-for-saint-petersburg/</guid>
+      <description>&lt;div class=&#34;sect1&#34;&gt;
+&lt;h2 id=&#34;_реквием_по_петербургу&#34;&gt;Реквием по Петербургу&lt;/h2&gt;
+&lt;div class=&#34;sectionbody&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title>Двенадцатоеапрельский</title>
+      <link>https://ru.madhead.me/posts/april12/</link>
+      <pubDate>Mon, 07 Aug 2017 16:22:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/april12/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Решил тут навести порядок в Google Docs.
+Выложу графоманство оттуда сюда.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Первый прыжок с парашютом</title>
+      <link>https://ru.madhead.me/posts/first-para-jump/</link>
+      <pubDate>Sun, 11 Jun 2017 21:51:00 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/first-para-jump/</guid>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;
+&lt;p&gt;Наконец-то прыгнул с парашютом.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>https://ru.madhead.me/posts/hello-world/</link>
+      <pubDate>Mon, 05 Jun 2017 23:44:25 +0300</pubDate>
+      
+      <guid>https://ru.madhead.me/posts/hello-world/</guid>
+      <description>Hello, world! Решил, вот, завести уютный бложек. Буду писать сюда иногда.
+   </description>
+    </item>
+    
+  </channel>
+</rss>
