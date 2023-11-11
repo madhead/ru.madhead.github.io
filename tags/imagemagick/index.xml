@@ -5,12 +5,13 @@
     <link>https://ru.madhead.me/tags/imagemagick/</link>
     <description>Recent content in imagemagick on madhead</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Feb 2018 02:00:00 +0300</lastBuildDate><atom:link href="https://ru.madhead.me/tags/imagemagick/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <lastBuildDate>Tue, 27 Feb 2018 02:00:00 +0300</lastBuildDate>
+    <atom:link href="https://ru.madhead.me/tags/imagemagick/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ImageMagick &#43; Docker = ❤️</title>
       <link>https://ru.madhead.me/posts/imagemagick/</link>
       <pubDate>Tue, 27 Feb 2018 02:00:00 +0300</pubDate>
-      
       <guid>https://ru.madhead.me/posts/imagemagick/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).
@@ -19,6 +20,5 @@
 И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>

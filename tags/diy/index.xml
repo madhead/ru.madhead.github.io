@@ -5,12 +5,13 @@
     <link>https://ru.madhead.me/tags/diy/</link>
     <description>Recent content in diy on madhead</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Feb 2020 09:00:00 +0300</lastBuildDate><atom:link href="https://ru.madhead.me/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <lastBuildDate>Tue, 04 Feb 2020 09:00:00 +0300</lastBuildDate>
+    <atom:link href="https://ru.madhead.me/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Заглянул в фаблаб MakeIT, и там здорово!</title>
       <link>https://ru.madhead.me/posts/makeit/</link>
       <pubDate>Tue, 04 Feb 2020 09:00:00 +0300</pubDate>
-      
       <guid>https://ru.madhead.me/posts/makeit/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Возникала ли у вас когда-нибудь необходимость поработать с инструментом посерьёзнее отвёртки, молотка и перфоратора?
@@ -19,24 +20,20 @@
 Но вряд ли у друга в гараже найдётся ЧПУ-фрезер, лазерный резак, или пресс для металла; редкая компания станет связываться с физлицом ради мелкого заказа; а барыги возьмут втридорога.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>3D-печать в Минске</title>
       <link>https://ru.madhead.me/posts/3d-minsk/</link>
       <pubDate>Sun, 17 Mar 2019 18:42:00 +0300</pubDate>
-      
       <guid>https://ru.madhead.me/posts/3d-minsk/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Как говорят минские айтишники, ставшие за последние несколько лет экспертами в любом деле и занявшие первые места в рядах поклонников всех мыслимых и немыслимых хобби и увлечений: «Готовь сноуборд летом, а солнечный фильтр зимой».
 И вот, сезон откатан, и пора готовить астроприблуды.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Металлический конструктор как акселератор бытового DIY</title>
       <link>https://ru.madhead.me/posts/metal-constructor/</link>
       <pubDate>Sat, 19 May 2018 03:59:00 +0300</pubDate>
-      
       <guid>https://ru.madhead.me/posts/metal-constructor/</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Есть у меня карманный проектор &lt;a href=&#34;https://www.acer.com/ac/en/GB/content/model/MR.JH911.001&#34;&gt;Acer C205&lt;/a&gt;.
@@ -49,6 +46,5 @@
 Вот я и замутил «походное» крепление для проектора на штатив.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>
