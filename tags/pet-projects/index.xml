@@ -13,61 +13,42 @@
       <link>https://ru.madhead.me/posts/tyzenhaus/</link>
       <pubDate>Tue, 14 Sep 2021 09:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/tyzenhaus/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://t.me/TyzenhausBot&#34;&gt;Tyzenhaus&lt;/a&gt; — это бот для телеги, упрощающий взаимные долги.
-Как Splitwise, только проще и в Telegram.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://t.me/TyzenhausBot&#34;&gt;Tyzenhaus&lt;/a&gt; — это бот для телеги, упрощающий взаимные долги.&#xA;Как Splitwise, только проще и в Telegram.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Grand Guide Pedestrian</title>
       <link>https://ru.madhead.me/posts/ggp/</link>
       <pubDate>Wed, 21 Jul 2021 21:43:00 +0200</pubDate>
       <guid>https://ru.madhead.me/posts/ggp/</guid>
-      <description>Нахакатонил тут проектик, называется Grand Guide Pedestrian.
-Это виртуальный интерактивный экспириенс, в котором игрок управляет другим человеком, героем, &amp;#34;как в GTA&amp;#34;. Только без стрельбы, угонов, и прочих нарушений законов, разумеется.
-Демка:
-Принцип работы:
-Герой стримит видео с экшн-камеры на рестример, откуда оно забирается SPAшкой для игрока. Игрок, в свою очередь, управляет героем &amp;#34;классической&amp;#34; комбинацией WASD. Нажатия кнопок отсылаются по вебсокету на сервер, и оттуда улетают по вебсокету же герою в мобильную прилажку.</description>
+      <description>Нахакатонил тут проектик, называется Grand Guide Pedestrian.&#xA;Это виртуальный интерактивный экспириенс, в котором игрок управляет другим человеком, героем, &amp;#34;как в GTA&amp;#34;. Только без стрельбы, угонов, и прочих нарушений законов, разумеется.&#xA;Демка:&#xA;Принцип работы:&#xA;Герой стримит видео с экшн-камеры на рестример, откуда оно забирается SPAшкой для игрока. Игрок, в свою очередь, управляет героем &amp;#34;классической&amp;#34; комбинацией WASD. Нажатия кнопок отсылаются по вебсокету на сервер, и оттуда улетают по вебсокету же герою в мобильную прилажку.</description>
     </item>
     <item>
       <title>ImgMacroBot</title>
       <link>https://ru.madhead.me/posts/imgmacrobot/</link>
       <pubDate>Tue, 16 Mar 2021 09:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/imgmacrobot/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://t.me/ImgMacroBot&#34;&gt;@ImgMacroBot&lt;/a&gt; — &lt;del&gt;это&lt;/del&gt;был &lt;a href=&#34;https://core.telegram.org/bots/inline&#34;&gt;инлайн ботом&lt;/a&gt; для телеги для генерации &lt;a href=&#34;https://en.wikipedia.org/wiki/Image_macro&#34;&gt;image macro&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://t.me/ImgMacroBot&#34;&gt;@ImgMacroBot&lt;/a&gt; — &lt;del&gt;это&lt;/del&gt;был &lt;a href=&#34;https://core.telegram.org/bots/inline&#34;&gt;инлайн ботом&lt;/a&gt; для телеги для генерации &lt;a href=&#34;https://en.wikipedia.org/wiki/Image_macro&#34;&gt;image macro&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>YouTube Watch Later Telegram Bot</title>
       <link>https://ru.madhead.me/posts/ywltb/</link>
       <pubDate>Wed, 20 May 2020 09:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/ywltb/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;YWLTB — или YouTube Watch Later Telegram Bot — &lt;del&gt;это&lt;/del&gt;был бот для телеги, который дела&lt;del&gt;ет&lt;/del&gt;л всего одну вещь: добавляет YouTube-видосы, которые вы ему скидываете в личку вам в &amp;#34;Watch Later&amp;#34; плейлист.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;YWLTB — или YouTube Watch Later Telegram Bot — &lt;del&gt;это&lt;/del&gt;был бот для телеги, который дела&lt;del&gt;ет&lt;/del&gt;л всего одну вещь: добавляет YouTube-видосы, которые вы ему скидываете в личку вам в &amp;#34;Watch Later&amp;#34; плейлист.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>ImageMagick &#43; Docker = ❤️</title>
       <link>https://ru.madhead.me/posts/imagemagick/</link>
       <pubDate>Tue, 27 Feb 2018 02:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/imagemagick/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).
-А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.
-Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.
-И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).&#xA;А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.&#xA;Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.&#xA;И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Kotlin &#43; Gradle = Jenkins plugin</title>
       <link>https://ru.madhead.me/posts/doktor/</link>
       <pubDate>Mon, 04 Sep 2017 21:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/doktor/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Запилил тут плагин для Jenkins на Kotlin.
-Делюсь впечатлениями.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Запилил тут плагин для Jenkins на Kotlin.&#xA;Делюсь впечатлениями.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

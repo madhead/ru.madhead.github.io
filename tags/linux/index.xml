@@ -13,22 +13,14 @@
       <link>https://ru.madhead.me/posts/imagemagick/</link>
       <pubDate>Tue, 27 Feb 2018 02:00:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/imagemagick/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).
-А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.
-Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.
-И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Раз в месяц мне нужно конвертировать многостраничные PDF-чеки из интернет-банкинга в несколько картинок, чтобы переслать их арендодателю в мессенджере (ну не напрягать же PDFками!).&#xA;А ещё иногда развлекаюсь с SVG и возникает необходимость генерировать несколько растров из одного вектора.&#xA;Кстати, никогда не понимал, почему Android-разработчики рисуют ассеты в нескольких размерах, &lt;a href=&#34;https://developer.android.com/studio/write/vector-asset-studio.html&#34;&gt;изобретают&lt;/a&gt; &lt;a href=&#34;https://developer.android.com/reference/android/graphics/drawable/VectorDrawable.html&#34;&gt;собственные форматы&lt;/a&gt; и просто страдают вместо использования SVG.&#xA;И не надо говорить про эффективность, уж 4-х ядерный двухгигагерцовый Snapdragon с Adreno смог бы отрисовать жалкую иконку.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>vokoscreen</title>
       <link>https://ru.madhead.me/posts/linux-screen-recording/</link>
       <pubDate>Sun, 29 Oct 2017 19:36:00 +0300</pubDate>
       <guid>https://ru.madhead.me/posts/linux-screen-recording/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Как записать скрин + аудио в Linux?
-У меня KDE, если чо.&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;paragraph&#34;&gt;&#xA;&lt;p&gt;Как записать скрин + аудио в Linux?&#xA;У меня KDE, если чо.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
